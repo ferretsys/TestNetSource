@@ -1,2 +1,1 @@
-print("Hello from lasdgjklh!!!")
-print("BOOYAH")
+print("Hello from the github!")
